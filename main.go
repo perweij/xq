@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 	"io/ioutil"
-	"github.com/moovweb/gokogiri"
-	"github.com/moovweb/gokogiri/xpath"
+	"github.com/jbowtie/gokogiri"
+	"github.com/jbowtie/gokogiri/xpath"
 )
 
 func main() {
